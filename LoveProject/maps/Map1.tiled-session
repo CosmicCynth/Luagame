@@ -1,0 +1,50 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Island1.tmx",
+    "expandedProjectPaths": [
+    ],
+    "fileStates": {
+        "Island1.tmx": {
+            "scale": 0.75,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 466.6666666666666,
+                "y": 521.3333333333333
+            }
+        },
+        "Island1.tmx#CastleWalls-tiles": {
+            "scaleInDock": 1
+        },
+        "Island1.tmx#Grass-tiles": {
+            "scaleInDock": 1
+        },
+        "Island1.tmx#Probs-Shadow": {
+            "scaleInDock": 1
+        },
+        "Island1.tmx#Probs-Tiles": {
+            "scaleInDock": 1
+        },
+        "Island1.tmx#Shadows-Trees": {
+            "scaleInDock": 1
+        },
+        "Island1.tmx#Trees-tiles": {
+            "scaleInDock": 1
+        }
+    },
+    "last.exportedFilePath": "C:/Users/45216/Desktop/LoveProject/maps",
+    "last.imagePath": "C:/Users/45216/Desktop/LoveProject/maps",
+    "map.height": 30,
+    "map.lastUsedExportFilter": "Lua files (*.lua)",
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "Island1.tmx"
+    ],
+    "project": "Map1.tiled-project",
+    "recentFiles": [
+        "Island1.tmx"
+    ],
+    "tileset.embedInMap": true
+}
